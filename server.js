@@ -39,7 +39,7 @@ client.on("reconnect", () => console.log("Reconectando..."));
 
 
 new MegaClient.Client({
-  token: "NTU2NTc3NzgyOTkwMTEwNzIx.XL4C4g.1LIyzrWcRlrfSoTtysfZvOFwCMM", 
+  token: "NTY5OTUwNDg4MDcwNzE3NDUw.XL4F2Q.gyB3pDs2yYzlz_1iSubDunoz33E", 
   comandos: "./comandos", 
   eventos: "./eventos"
   });
